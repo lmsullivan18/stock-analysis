@@ -18,6 +18,8 @@ After running the code on the 2017 and 2018 datasets, it is clear that the stock
 
 On the other hand, the stocks did not perform as well in 2018. Only two of the stocks had positive returns in 2018, and the rest were negative. In the image below, you can see the returns for all the stocks in 2018.
 
+![2018](https://user-images.githubusercontent.com/74469315/101990593-b4609200-3c75-11eb-8ba3-029e0fdeb896.PNG)
+
 In terms of execution times, it takes the refactored code a much shorter time to run. The original code takes over half a second to run for both 2017 and 2018, where the refactored code takes approx. 0.07 seconds for 2017 and 0.09 seconds for 2018. While it may seem silly to want to make your code more efficient by less than half a second, it can prove useful when working with larger and larger data sets. For a data set with thousands of entries, it will prove useful to be able to write code that runs faster and saves time when analyzing.
  
 ## Summary

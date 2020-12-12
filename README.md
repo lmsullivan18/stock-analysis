@@ -5,10 +5,8 @@
 ### Purpose
 
 The purpose of this project was to help us learn VBA by doing an exercise analyzing stocks. First, we analyzed the performance of just one stock that our friend Steve’s parents were thinking about investing in. 
-When it appeared that the performance of that stock was not great, we analyzed the performance of other stocks in the same time period to see if there was one that would be better to invest in.
+When it appeared that the performance of that stock (DQ) was not great, we analyzed the performance of other stocks in the same time period to see if there was one that would be better to invest in.
 Finally, we refactored our code to make it more efficient, and easier to apply to larger data sets if needed.
-
-### Background
 
 ## Results
 
